@@ -75,7 +75,17 @@
         "locked": false,
         "readtime": 1,
         "videos": {},
-        "images": {}
+        "images": {},
+        "files": [
+          {
+            "path": "[object Object]HAX.psu-World-changer-circle.png",
+            "fullUrl": "//media/bto108a/AtticStorage/git/btopro/how-to-create-a-blog/files/HAX.psu-World-changer-circle.png",
+            "url": "files/HAX.psu-World-changer-circle.png",
+            "type": "image/png",
+            "name": "HAX.psu-World-changer-circle.png",
+            "size": 1172092
+          }
+        ]
       }
     }
   ]
