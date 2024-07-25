@@ -3,23 +3,26 @@
 <channel>
   <title>how-to-create-a-blog</title>
   <link>/rss.xml</link>
-  <description></description>
+  <description>own course</description>
   <copyright>Copyright (C) 2024 </copyright>
   <language>en-us</language>
   <lastBuildDate>1970-01-20T22:18:50.466Z</lastBuildDate>
   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>
-    <title>Welcome</title>
+    <title>Poor Man's Poison</title>
     <link>
     /item-5a5345f7-682a-4063-b354-b9ede5f8dcff
     </link>
     <description>
-        <![CDATA[ <p>
-    To get started, hit the edit pencil on the side.
-    Now this content is editable in place so select and delete it to get started!
-    If you need to learn more about the HAX editor or HAXcms check out <a href="https://haxtheweb.org/ux-concepts" target="_blank" rel="noopener noreferrer">HAXTheWeb.org</a>!
-</p> ]]>
+        <![CDATA[ 
+<p>
+    To make a new website about an awesome band</p>
+<p></p>
+<wikipedia-query search="Poor Man's Poison" element-visible language="en" headers="{&quot;cache&quot;:&quot;force-cache&quot;}"></wikipedia-query>
+<p></p>
+<spotify-embed source="https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8" size="normal" data-padding="l" playlistid="5dRcZuEijcy8xMfSaRjtk8" type="album"></spotify-embed>
+ ]]>
     </description>
     <category></category>
     <guid>

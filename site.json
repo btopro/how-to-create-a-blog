@@ -48,13 +48,34 @@
       "slug": "welcome",
       "order": 0,
       "parent": null,
-      "title": "Welcome",
-      "description": "",
+      "title": "Poor Man's Poison",
+      "description": "\n    To make a new website about an awesome band\n\n\n\n\n",
       "metadata": {
         "created": 1721930466,
-        "updated": 1721930466
+        "updated": 1721930593,
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-1d227a40-0102-46b6-ba37-e12ea4a9c612",
+      "indent": 0,
+      "location": "pages/item-1d227a40-0102-46b6-ba37-e12ea4a9c612/index.html",
+      "slug": "welcome/page",
+      "order": 0,
+      "parent": "item-5a5345f7-682a-4063-b354-b9ede5f8dcff",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1721930604,
+        "updated": 1721930604,
+        "images": [],
+        "videos": []
       }
     }
-  ],
-  "location": "/_sites/how-to-create-a-blog/index.html"
+  ]
 }
